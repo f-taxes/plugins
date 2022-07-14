@@ -1,0 +1,10 @@
+[
+  {
+    "type": "source",
+    "id": "ftx_trading_peter",
+    "label": "FTX",
+    "author": "trading_peter",
+    "version": "0.0.1",
+    "repository": "https://github.com/f-taxes/ftx"
+  }
+]
