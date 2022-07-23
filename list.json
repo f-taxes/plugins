@@ -1,19 +1,20 @@
 [
   {
-    "type": "source",
-    "id": "ftx_trading_peter",
-    "label": "FTX",
-    "author": {
-      "name": "trading_peter",
-      "twitter": "https://twitter.com/trading_peter"
-    },
-    "version": "0.0.1",
-    "icon": "https://theme.zdassets.com/theme_assets/9179536/8337347401aaefcf703d3325396f7919333f994d.png",
-    "repository": "https://github.com/f-taxes/ftx",
-    "download": {
-      "windows": "https://github.com/f-taxes/ftx/releases/download/v0.0.1/ftx-windows.zip",
-      "linux": "https://github.com/f-taxes/ftx/releases/download/v0.0.1/ftx-linux.zip",
-      "darwin": "https://github.com/f-taxes/ftx/releases/download/v0.0.1/ftx-darwin.zip"
-    }
+  "type": "source",
+  "id": "ftx_trading_peter",
+  "label": "FTX",
+  "author": {
+    "name": "trading_peter",
+    "twitter": "https://twitter.com/trading_peter"
+  },
+  "version": "0.0.1",
+  "icon": "https://theme.zdassets.com/theme_assets/9179536/8337347401aaefcf703d3325396f7919333f994d.png",
+  "bin": "ftx",
+  "repository": "https://github.com/f-taxes/ftx",
+  "download": {
+    "windows": "https://github.com/f-taxes/ftx/releases/download/0.0.1/ftx-windows.zip",
+    "linux": "https://github.com/f-taxes/ftx/releases/download/0.0.1/ftx-linux.zip",
+    "darwin": "https://github.com/f-taxes/ftx/releases/download/0.0.1/ftx-darwin.zip"
   }
+}
 ]
